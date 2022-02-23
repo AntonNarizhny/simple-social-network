@@ -2,6 +2,7 @@
 
 RESTful social network with the following features:
 - Google oAuth2 users authentication
+- Links preview
 - User profiles
 - User posts
 - User comments on other users posts 
@@ -53,3 +54,15 @@ spring.session.jdbc.schema=classpath:session_tables.sql
 * Maven
 * Lombok
 * Jackson
+
+![Image of Maint](images/google_authentication_page.png)
+
+![Image of Maint](images/authentication_page.png)
+
+![Image of Maint](images/user_profile.png)
+
+![Image of Maint](images/posts_and_comments.png)
+
+![Image of Maint](images/links_preview.png)
+
+![Image of Maint](images/comments.png)
