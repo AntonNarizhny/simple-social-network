@@ -1,7 +1,7 @@
 # Simple Social Network
 
 RESTful social network with the following features:
-- Google oAuth2 users authentication
+- Google oAuth2 user authentication
 - Links preview
 - User profiles
 - User posts
@@ -11,6 +11,7 @@ RESTful social network with the following features:
 ## Prerequisites ❗
 1. `JDK 11` - for running app
 2. `Maven 3.8.1+` - for building package
+3. `PostgreSQL` - for data storage
 
 ## Preparation 🔨
 You need to register your project on [Google Cloud Console](https://console.cloud.google.com) and take credentials (Client Id and Client Secret)
